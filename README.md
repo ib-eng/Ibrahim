@@ -15,13 +15,5 @@ This is a college-level web application developed using Python and Flask.
 - CSS
 - SQLite
 
-## How to Run
-1. Install Flask  
-   pip install flask
-2. Run the app  
-   python app.py
-3. Open browser  
-   http://127.0.0.1:5000/
-
 ## Author
 Ibrahim
